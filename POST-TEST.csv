@@ -1,0 +1,211 @@
+timestamp,name,date_of_birth,age,barangay,gender,print_media,print_media_q1,print_media_q2,print_media_q3,print_media_q4,radio_ads,radio_ads_q1,radio_ads_q2,radio_ads_q3,radio_ads_q4,social_media,social_media_q1,social_media_q2,social_media_q3,social_media_q4,SST_1,SST_2,SST_3,SST_4,SST_5
+,Jun,1972,54,Triangulo,Lalaki,Yes,5,5,4,5,Yes,5,5,4,5,Yes,5,5,4,5,2,2,7,2,2
+,Jacob,1973,53,Triangulo,Lalaki,Yes,5,5,5,5,Yes,5,5,5,5,Yes,5,5,5,5,7,2,6,2,2
+,Norr,1956,70,Triangulo,Babae,No,,,,,No,,,,,No,,,,,5,2,2,2,6
+,Norma,1956,70,Triangulo,Babae,No,,,,,Yes,5,3,4,5,No,,,,,2,2,2,2,2
+,Vangie,1963,63,Triangulo,Babae,No,,,,,No,,,,,Yes,2,2,1,5,1,6,7,2,7
+,Marites,,62,Triangulo,Babae,No,,,,,Yes,4,3,2,5,No,,,,,2,2,6,2,6
+,Raymond,"March 7, 1975",51,Triangulo,Lalaki,No,,,,,No,,,,,No,,,,,2,6,6,2,2
+,Jun,"November 25, 1951",75,Triangulo,Lalaki,No,,,,,No,,,,,Yes,3,3,4,4,1,1,7,1,1
+,Shirley,"October 29, 1968",57,Triangulo,Babae,No,,,,,Yes,3,4,3,5,Yes,3,4,3,5,6,2,6,1,6
+,Jose,"April 15, 1966",60,Triangulo,Lalaki,No,,,,,Yes,2,4,4,4,Yes,2,3,4,4,7,2,7,1,7
+,,"April 18, 1953",73,Triangulo,Lalaki,No,,,,,Yes,5,5,5,5,Yes,5,5,5,5,5,5,7,2,1
+,,,62,Triangulo,Lalaki,No,,,,,Yes,5,5,5,5,No,,,,,1,1,5,2,1
+,,1971,55,Triangulo,Babae,No,,,,,Yes,3,2,5,5,Yes,5,5,5,5,2,3,3,2,6
+,,1980,46,Triangulo,Babae,No,,,,,No,,,,,No,,,,,1,1,1,1,1
+,,1978,48,Triangulo,Lalaki,No,,,,,Yes,5,5,5,5,Yes,5,5,5,5,1,1,7,1,1
+,,1982,44,Triangulo,Babae,No,,,,,Yes,5,5,4,5,Yes,5,5,5,5,7,1,3,1,1
+,,"August 25, 1958",67,Triangulo,Babae,No,,,,,No,,,,,No,,,,,1,1,7,1,1
+,,"January 29, 1978",48,Triangulo,Lalaki,No,,,,,No,,,,,No,,,,,1,3,3,1,5
+,,"November 19, 1968",57,Triangulo,Lalaki,No,,,,,Yes,3,4,5,5,Yes,5,5,5,5,1,1,7,1,1
+,Jose,1968,,Calauag,Lalaki,No,,,,,No,,,,,No,,,,,2,2,6,2,6
+,Edgar,1957,,Calauag,Lalaki,No,,,,,Yes,2,2,3,5,No,,,,,2,2,6,2,2
+,Norma,1961,,Calauag,Babae,No,,,,,Yes,4,1,3,2,No,,,,,2,2,6,2,2
+,Merlie,1960,,Calauag,Babae,No,,,,,Yes,5,3,5,5,Yes,5,3,5,5,2,2,6,2,6
+,Sugar,1963,,Calauag,Babae,No,,,,,Yes,2,3,5,2,No,,,,,2,2,6,2,2
+,Anafe,1968,,Calauag,Babae,Yes,4,3,5,5,No,,,,,Yes,3,3,5,5,2,2,6,2,6
+,,,48,Calauag,Babae,No,,,,,No,,,,,Yes,5,5,5,5,1,1,5,1,1
+,Rose,1975,,Calauag,Babae,No,,,,,No,,,,,No,,,,,6,6,1,6,2
+,Ariel,1967,,Calauag,Lalaki,Yes,5,3,5,1,No,,,,,No,,,,,6,2,7,2,6
+,Jayson,1962,,Calauag,Lalaki,No,,,,,No,,,,,No,2,2,6,2,1,,,,
+,Sally,1957,,Calauag,Babae,No,,,,,Yes,4,3,3,2,No,,,,,2,2,7,2,2
+,Cherry Ann,1975,,Calauag,Babae,No,,,,,No,,,,,Yes,5,4,5,5,2,2,7,1,1
+,Esmeraldo,1978,,Calauag,Lalaki,No,,,,,No,,,,,Yes,4,4,5,5,1,1,7,1,1
+,,,47,Calauag,Babae,No,,,,,No,,,,,No,,,,,1,1,7,1,3
+,,1965,,Calauag,Babae,No,,,,,No,,,,,No,,,,,1,1,7,7,1
+,,,58,Calauag,Babae,No,,,,,No,,,,,Yes,5,2,5,4,1,1,7,1,1
+,,1956,,Calauag,Babae,No,,,,,No,,,,,No,,,,,3,1,1,5,1
+,,,67,Calauag,Babae,No,,,,,No,,,,,Yes,5,5,5,5,1,1,7,1,1
+,,1977,49,Calauag,Babae,No,,,,,No,,,,,Yes,5,5,5,5,7,1,4,1,1
+,,1976,49,Calauag,Babae,No,,,,,Yes,5,5,5,5,Yes,5,5,4,5,3,1,1,1,7
+,,1965,,Calauag,Babae,No,,,,,No,,,,,Yes,2,2,4,5,1,1,7,1,1
+,,1981,,Calauag,Babae,No,,,,,Yes,5,5,5,4,Yes,5,5,5,4,7,1,5,3,1
+,,1967,,Calauag,Babae,No,,,,,No,,,,,Yes,5,4,5,5,2,5,7,1,7
+,,1962,64,Calauag,Babae,No,,,,,No,,,,,No,,,,,1,1,7,5,1
+,,1956,69,Calauag,Lalaki,No,,,,,Yes,5,5,5,5,No,,,,,1,1,7,1,1
+,,,65,Concepcion Pequeña,Babae,No,,,,,No,,,,,Yes,4,4,5,4,1,1,6,1,1
+,,,51,Concepcion Pequeña,Babae,No,,,,,No,,,,,Yes,5,5,4,5,3,1,7,2,2
+,,,49,Concepcion Pequeña,Babae,No,,,,,No,,,,,Yes,5,2,4,4,1,1,4,3,3
+,,,50,Concepcion Pequeña,Babae,No,,,,,No,,,,,Yes,5,3,4,4,1,1,7,2,2
+,,1958,,Concepcion Pequeña,Babae,No,,,,,Yes,5,5,4,5,Yes,5,5,4,5,1,1,1,1,7
+,,1977,,Concepcion Pequeña,Babae,No,,,,,Yes,5,5,4,5,Yes,5,5,4,5,1,1,1,1,7
+,,1951,,Concepcion Pequeña,Lalaki,No,,,,,No,,,,,No,,,,,1,1,1,1,7
+,,1962,,Concepcion Pequeña,Babae,Yes,5,5,4,4,Yes,5,5,5,5,Yes,3,3,3,4,1,2,7,2,7
+,,1947,,Concepcion Pequeña,Babae,No,,,,,No,,,,,No,,,,,2,2,7,2,7
+,,1973,,Concepcion Pequeña,Babae,No,,,,,Yes,2,2,3,3,No,,,,,1,1,7,1,7
+,,1960,,Concepcion Pequeña,Lalaki,No,,,,,Yes,5,4,5,5,No,,,,,1,2,7,2,7
+,,1959,,Concepcion Pequeña,Babae,No,,,,,No,,,,,No,,,,,1,1,4,4,7
+,,,82,Concepcion Pequeña,Babae,No,,,,,No,,,,,No,,,,,1,2,7,7,4
+,,,80,Concepcion Pequeña,Lalaki,No,,,,,No,,,,,No,,,,,2,2,7,2,2
+,,1965,60,Concepcion Pequeña,Lalaki,No,,,,,Yes,4,2,5,5,No,,,,,1,1,7,2,1
+,,1978,47,Concepcion Pequeña,Babae,No,,,,,Yes,5,5,5,5,Yes,5,5,5,5,1,1,5,1,2
+,,1977,49,Concepcion Pequeña,Lalaki,No,,,,,Yes,5,5,5,5,Yes,5,5,5,5,1,1,7,1,1
+,,1964,61,Concepcion Pequeña,Babae,No,,,,,Yes,4,4,3,4,Yes,4,4,3,4,1,1,6,1,1
+,,1977,,Concepcion Pequeña,Lalaki,No,,,,,No,,,,,No,,,,,1,3,6,2,6
+,,1954,52,Concepcion Pequeña,Babae,No,,,,,No,,,,,Yes,4,3,3,4,1,1,5,1,3
+,,,55,Concepcion Pequeña,Lalaki,No,,,,,Yes,5,5,5,5,No,,,,,1,1,7,2,5
+,,,53,Concepcion Pequeña,Babae,No,,,,,Yes,5,5,5,5,Yes,5,5,5,5,3,1,1,1,6
+,Ryan,1955,,Concepcion Pequeña,Lalaki,No,,,,,No,,,,,No,,,,,6,6,6,6,6
+,Ramona,1957,,Concepcion Pequeña,Babae,No,,,,,Yes,3,3,4,5,Yes,3,3,5,5,7,7,7,6,6
+,Alex,1959,,Concepcion Pequeña,Lalaki,No,,,,,No,,,,,No,,,,,1,1,6,1,6
+,Wilson,1956,,Concepcion Pequeña,Lalaki,No,,,,,No,,,,,Yes,5,5,5,5,1,1,7,1,1
+,Josephina,1954,,Concepcion Pequeña,Babae,No,,,,,No,,,,,Yes,4,4,4,4,7,7,7,7,7
+,William,1974,,Concepcion Pequeña,Lalaki,No,,,,,No,,,,,No,,,,,2,2,7,2,7
+,Milo,1970,,Concepcion Pequeña,Babae,Yes,3,3,4,4,No,,,,,Yes,3,3,4,4,1,1,7,7,7
+,Filomina,1950,,Concepcion Pequeña,Babae,Yes,3,3,5,5,No,,,,,No,,,,,2,2,7,1,7
+,Rufino,1956,,Concepcion Pequeña,Lalaki,No,,,,,No,,,,,Yes,4,5,5,5,2,2,6,6,6
+,Norman,1971,,Concepcion Pequeña,Lalaki,No,,,,,Yes,3,3,5,5,Yes,4,4,5,5,2,2,6,1,6
+,Jenny,1972,,Concepcion Pequeña,Babae,No,,,,,No,,,,,No,,,,,1,1,7,1,1
+,Juliet,1965,,Concepcion Pequeña,Babae,No,,,,,Yes,4,4,4,4,No,,,,,1,1,6,1,6
+,,1964,63,Concepcion Pequeña,Babae,No,,,,,No,,,,,Yes,1,5,5,5,1,1,3,1,1
+,,1967,58,Concepcion Pequeña,Lalaki,No,,,,,No,,,,,Yes,5,5,5,5,1,1,3,1,1
+,,1958,,Concepcion Pequeña,Babae,No,,,,,Yes,4,2,5,2,Yes,2,2,5,2,2,2,6,2,2
+,,1969,,Concepcion Pequeña,Babae,No,,,,,No,,,,,Yes,4,3,5,5,1,6,6,1,7
+,,1967,,Concepcion Pequeña,Lalaki,No,,,,,Yes,3,4,5,5,Yes,5,5,5,5,1,6,7,6,6
+,Rosabelle,,62,Concepcion Pequeña,Babae,No,,,,,No,,,,,No,,,,,1,1,7,1,1
+,,1973,53,Concepcion Pequeña,Babae,No,,,,,No,,,,,No,,,,,1,6,7,7,1
+,,1969,,Concepcion Pequeña,Babae,No,,,,,Yes,3,2,4,5,Yes,4,3,2,5,6,6,6,2,6
+,,1969,,Concepcion Pequeña,Babae,No,,,,,Yes,5,1,1,3,Yes,5,1,4,5,2,6,2,2,2
+,,1949,,Concepcion Pequeña,Lalaki,No,,,,,Yes,4,2,5,2,Yes,2,2,5,2,2,2,6,2,2
+,,1976,,Concepcion Pequeña,Lalaki,No,,,,,Yes,2,4,3,5,Yes,3,4,5,5,2,1,6,2,2
+,,1967,,Concepcion Pequeña,Babae,No,,,,,No,,,,,Yes,2,2,4,1,2,2,6,2,6
+,,1970,,Concepcion Pequeña,Babae,No,,,,,Yes,1,4,4,2,Yes,2,4,4,3,2,2,6,2,6
+,,1975,,Concepcion Pequeña,Babae,No,,,,,No,,,,,No,,,,,2,2,6,2,6
+,,1980,,Concepcion Pequeña,Babae,No,,,,,Yes,2,2,2,3,Yes,4,2,2,2,2,2,2,2,6
+,,1974,,Concepcion Pequeña,Babae,No,,,,,No,,,,,Yes,2,1,2,5,2,2,6,2,6
+,,1968,,Concepcion Pequeña,Babae,No,,,,,Yes,5,3,1,4,No,,,,,6,2,6,6,2
+,,1978,,Concepcion Pequeña,Babae,No,,,,,No,,,,,Yes,4,4,3,3,2,2,6,2,6
+,,1977,,Concepcion Pequeña,Babae,No,,,,,No,,,,,Yes,4,2,3,3,2,2,6,2,6
+,,,64,Concepcion Pequeña,Lalaki,No,,,,,Yes,5,4,5,5,No,,,,,1,1,3,2,2
+,,,46,Concepcion Pequeña,Lalaki,No,,,,,No,,,,,No,,,,,1,2,1,1,1
+,,,64,Concepcion Pequeña,Babae,No,,,,,Yes,3,5,5,5,No,,,,,1,1,7,1,1
+,,,64,Concepcion Pequeña,Lalaki,No,,,,,Yes,5,5,5,4,Yes,5,5,5,4,1,1,4,1,2
+,,,64,Concepcion Pequeña,Babae,No,,,,,Yes,5,5,5,4,Yes,5,5,5,4,5,1,1,3,2
+,,,55,Concepcion Pequeña,Babae,No,,,,,No,,,,,Yes,1,1,4,4,1,7,5,1,5
+,,1984,,Concepcion Pequeña,Babae,No,,,,,Yes,2,2,5,5,Yes,5,4,4,5,6,6,7,1,7
+,,1960,,Concepcion Pequeña,Babae,No,,,,,Yes,5,5,5,2,No,,,,,1,1,1,1,7
+,,,56,Concepcion Pequeña,Babae,No,,,,,No,,,,,No,,,,,1,1,5,3,2
+,Bong,1977,49,Concepcion Grande,Lalaki,No,,,,,Yes,3,3,3,2,Yes,4,4,4,3,1,6,7,2,2
+,Fe,1940,86,Concepcion Grande,Babae,No,,,,,No,,,,,Yes,5,3,3,5,2,2,5,2,2
+,Rico,1971,55,Concepcion Grande,Lalaki,No,,,,,No,,,,,Yes,5,3,5,1,2,2,6,2,6
+,Rene,1975,51,Concepcion Grande,Babae,No,,,,,Yes,4,4,4,5,Yes,4,4,4,5,2,2,6,2,2
+,Bong,1979,47,Concepcion Grande,Lalaki,No,,,,,Yes,3,3,4,5,No,,,,,2,2,6,6,2
+,Josefina,1972,54,Concepcion Grande,Babae,No,,,,,No,,,,,No,,,,,2,2,2,2,6
+,Evangeline,"March 11, 1963",63,Concepcion Grande,Babae,Yes,5,3,5,4,Yes,5,3,5,4,Yes,5,3,5,4,,,,,
+,Corazon De Castro,"May 5, 1955",70,Concepcion Grande,Babae,No,,,,,Yes,1,1,4,4,Yes,1,1,4,4,2,2,7,2,2
+,,,60,Concepcion Grande,Babae,No,,,,,No,,,,,No,,,,,1,1,7,2,1
+,,1944,82,Concepcion Grande,Babae,No,,,,,No,,,,,No,,,,,1,1,7,1,1
+,,1970,56,Concepcion Grande,Babae,No,,,,,No,,,,,Yes,3,3,3,5,3,1,1,1,1
+,,1967,59,Concepcion Grande,Lalaki,No,,,,,No,,,,,No,,,,,3,1,5,1,1
+,,1956,70,Concepcion Grande,Lalaki,No,,,,,No,,,,,Yes,5,3,5,5,1,1,5,1,1
+,,"April 1, 1981",45,Concepcion Grande,Lalaki,No,,,,,No,,,,,Yes,1,1,1,2,1,1,7,2,1
+,,1967,59,Concepcion Grande,Lalaki,No,,,,,No,,,,,Yes,4,4,2,4,1,1,7,3,5
+,,1974,52,Concepcion Grande,Babae,No,,,,,Yes,4,4,5,4,Yes,5,5,4,4,2,1,7,2,2
+,,1976,50,Concepcion Grande,Lalaki,No,,,,,No,,,,,Yes,4,5,4,5,1,1,6,2,2
+,,1967,59,Concepcion Grande,Babae,No,,,,,Yes,5,5,5,5,Yes,5,5,5,5,1,1,7,2,2
+,Domingo,"March 25, 1958",68,Concepcion Grande,Lalaki,No,,,,,Yes,3,3,4,5,Yes,4,4,4,4,2,2,7,2,2
+,Antonio,"July 10, 1964",61,Concepcion Grande,Lalaki,No,,,,,No,,,,,Yes,2,2,2,3,2,2,7,6,6
+,,1954,71,Concepcion Grande,Babae,No,,,,,Yes,5,5,4,5,Yes,5,1,4,5,1,1,1,1,7
+,Leopoldo,1976,50,Concepcion Grande,Babae,No,,,,,No,,,,,No,,,,,1,1,1,5,5
+,,,63,Concepcion Grande,Lalaki,No,,,,,No,,,,,No,,,,,5,1,1,2,1
+,,1951,75,Concepcion Grande,Lalaki,No,,,,,No,,,,,No,,,,,1,1,7,1,1
+,,1957,68,Concepcion Grande,Babae,No,,,,,No,,,,,Yes,2,1,4,4,7,7,7,7,7
+,,1987,36,Concepcion Grande,Babae,No,,,,,No,,,,,Yes,1,1,1,2,1,1,7,2,1
+,Salvacion,9/15/1955,,Cararayan,Babae,No,,,,,Yes,5,4,5,5,No,,,,,1,1,1,1,1
+,Princess,8/15/1981,,Cararayan,Babae,No,,,,,No,,,,,Yes,5,5,5,5,2,2,6,1,2
+,Chrislyn,7/12/1978,,Cararayan,Babae,No,,,,,No,,,,,No,,,,,2,2,6,6,2
+,Bea,7/27/1983,,Cararayan,Babae,No,,,,,No,,,,,Yes,5,5,5,5,2,2,6,6,6
+,Kimberly,5/30/1980,,Cararayan,Babae,No,,,,,No,,,,,Yes,4,4,4,4,1,1,7,1,1
+,Ramonsito,1964,,Cararayan,Lalaki,No,,,,,No,,,,,Yes,5,4,5,5,1,1,7,1,7
+,Lailanie,4/1/1981,,Cararayan,Babae,No,,,,,No,,,,,No,,,,,1,2,7,1,7
+,Melvin,2/27/1980,,Cararayan,Lalaki,Yes,3,3,4,5,No,,,,,Yes,4,3,5,5,6,2,6,6,6
+,Lyka,4/25/2026,,Cararayan,Babae,No,,,,,Yes,3,3,3,3,Yes,3,3,4,4,2,2,6,6,6
+,Jose Porfirio,5/11/1976,,Cararayan,Lalaki,Yes,3,4,4,4,No,,,,,Yes,4,4,4,4,6,6,6,6,6
+,Ryza,7/10/1980,,Cararayan,Lalaki,No,,,,,No,,,,,Yes,5,5,5,5,6,6,6,6,6
+,,1959,,Cararayan,Lalaki,No,,,,,Yes,3,3,4,3,Yes,4,4,5,5,6,2,7,1,6
+,,,60,Cararayan,Babae,No,,,,,No,,,,,No,,,,,1,2,7,1,1
+,,,50,Cararayan,Lalaki,No,,,,,No,,,,,No,,,,,4,5,7,1,2
+,,,46,Cararayan,Babae,No,,,,,No,,,,,Yes,5,5,3,5,4,6,7,6,7
+,,,60,Cararayan,Babae,No,,,,,Yes,5,5,5,5,Yes,5,5,5,5,1,6,6,2,1
+,,,71,Cararayan,Babae,No,,,,,No,,,,,No,,,,,1,2,6,1,1
+,,,73,Cararayan,Lalaki,No,,,,,No,,,,,No,,,,,7,1,5,6,4
+,,,55,Cararayan,Lalaki,No,,,,,No,,,,,No,,,,,7,1,4,6,4
+,,,67,Cararayan,Lalaki,No,,,,,No,,,,,No,,,,,1,1,6,2,1
+,,,67,Cararayan,Lalaki,No,,,,,Yes,5,5,5,5,No,,,,,1,1,7,1,2
+,,,59,Cararayan,Babae,No,,,,,No,,,,,No,,,,,2,1,7,4,1
+,,1960,,Cararayan,Babae,No,,,,,No,,,,,Yes,4,5,4,5,2,2,2,2,2
+,,1970,,Cararayan,Babae,No,,,,,Yes,5,5,3,5,Yes,5,5,5,5,2,2,2,2,2
+,Segundina,1944,,Cararayan,Lalaki,No,,,,,No,,,,,No,,,,,2,2,6,2,2
+,Ronald,1978,,Cararayan,Lalaki,Yes,4,4,4,4,No,,,,,Yes,5,4,4,4,2,2,7,2,2
+,,1980,,Cararayan,Babae,No,,,,,Yes,5,3,4,5,Yes,4,3,4,4,2,2,6,2,2
+,,1959,,Cararayan,Babae,No,,,,,Yes,2,2,1,2,No,,,,,2,2,6,2,6
+,,1961,,Cararayan,Babae,No,,,,,Yes,2,2,1,2,No,,,,,2,2,6,2,6
+,,1980,,Cararayan,Lalaki,No,,,,,Yes,4,5,4,4,Yes,4,5,4,4,2,2,6,6,2
+,,1964,,Cararayan,Babae,No,,,,,No,,,,,Yes,3,2,3,4,2,2,6,2,2
+,Luzviminda,1959,,Cararayan,Babae,No,,,,,No,,,,,No,,,,,6,2,6,6,6
+,Jose,1959,,Cararayan,Lalaki,No,,,,,Yes,2,2,4,4,No,,,,,6,2,6,2,6
+,,,46,Cararayan,Lalaki,No,,,,,Yes,5,5,4,4,No,,,,,2,2,4,2,2
+,Carlos Escobar,12/24/1966,59,Cararayan,Lalaki,No,,,,,No,,,,,Yes,5,1,1,5,1,1,5,1,1
+,Rosalinda Paneza,,63,Cararayan,Babae,Yes,4,4,5,5,No,,,,,Yes,5,5,5,5,1,1,7,2,2
+,,,60,Cararayan,Babae,No,,,,,No,,,,,Yes,4,4,5,5,6,2,4,2,2
+,,,54,Cararayan,Babae,No,,,,,Yes,3,3,5,5,Yes,3,3,5,5,1,1,6,1,1
+,,,73,Cararayan,Lalaki,No,,,,,No,,,,,No,,,,,1,,,,
+,,,54,Cararayan,Babae,No,,,,,Yes,5,4,5,5,Yes,3,3,4,4,1,6,5,5,1
+,Asuncion Roblo,,72,Cararayan,Babae,No,,,,,Yes,5,5,5,1,No,,,,,1,1,1,1,1
+,Cloderio Roblo,,76,Cararayan,Lalaki,No,,,,,Yes,5,5,5,1,No,,,,,1,1,1,1,1
+,,,70,Cararayan,Lalaki,No,,,,,Yes,1,5,5,3,Yes,1,3,2,1,1,1,7,1,1
+,,1978,49,Cararayan,Lalaki,No,,,,,Yes,2,1,1,1,No,,,,,1,1,7,1,1
+,,1980,44,Cararayan,Lalaki,No,,,,,Yes,1,1,5,5,Yes,1,1,5,5,5,6,6,1,6
+,,1979,47,Cararayan,Babae,No,,,,,No,,,,,Yes,5,5,5,5,3,1,6,3,1
+,,1960,66,Cararayan,Babae,No,,,,,No,,,,,Yes,5,5,4,5,1,1,7,1,1
+,,1956,60,Cararayan,Babae,No,,,,,No,,,,,No,,,,,1,1,6,1,1
+,,1964,60,Cararayan,Babae,No,,,,,No,,,,,Yes,2,1,2,5,1,1,7,1,1
+,,1980,,Cararayan,Babae,No,,,,,Yes,3,3,4,4,Yes,3,3,4,4,4,1,6,2,2
+,M. Pesimo,1980,,Cararayan,Babae,No,,,,,Yes,4,4,4,4,Yes,3,3,3,3,4,1,6,2,2
+,,,57,Cararayan,Babae,No,,,,,No,,,,,No,,,,,1,1,7,2,2
+,,1989,,Cararayan,Lalaki,No,,,,,Yes,5,5,4,5,Yes,5,5,4,4,5,1,7,1,7
+,,,63,Cararayan,Babae,No,,,,,No,,,,,No,,,,,1,1,7,1,1
+,Robert ,1964,62,Del Rosario,Lalaki,No,,,,,Yes,5,5,5,3,Yes,5,5,5,3,6,2,6,2,6
+,Myrna,1953,73,Del Rosario,Babae,No,,,,,No,,,,,No,,,,,2,2,6,2,2
+,Teresita,1964,62,Del Rosario,Babae,No,,,,,No,,,,,No,,,,,2,2,6,2,6
+,Racquel,1973,53,Del Rosario,Babae,No,,,,,No,,,,,Yes,5,4,4,6,2,2,6,2,6
+,Rizel,1980,46,Del Rosario,Babae,Yes,3,3,4,2,No,,,,,Yes,3,3,4,3,6,5,5,6,7
+,Benito,1963,63,Del Rosario,Lalaki,No,,,,,No,,,,,No,,,,,1,1,1,1,1
+,Josephine,1972,54,Del Rosario,Babae,No,,,,,No,,,,,Yes,4,4,4,4,2,2,6,2,2
+,Eleonor,1978,48,Del Rosario,Babae,No,,,,,No,,,,,Yes,3,4,5,5,2,2,6,2,2
+,Rodrigo,1978,48,Del Rosario,Lalaki,No,,,,,No,,,,,Yes,4,4,4,4,6,6,6,6,6
+,Aj,"Nov 5, 1980",45,Del Rosario,Lalaki,No,,,,,No,,,,,Yes,4,4,4,4,4,2,6,1,1
+,,1967,59,Del Rosario,Lalaki,No,,,,,Yes,2,2,3,1,Yes,2,2,2,1,1,1,7,1,1
+,,1961,65,Del Rosario,Babae,No,,,,,No,,,,,No,,,,,1,6,7,1,7
+,,1976,50,Del Rosario,Babae,No,,,,,Yes,2,5,5,5,Yes,5,5,5,5,5,7,7,1,7
+,,1961,65,Del Rosario,Lalaki,No,,,,,No,,,,,Yes,2,2,5,4,1,1,7,1,7
+,,1963,63,Del Rosario,Babae,No,,,,,Yes,2,2,5,4,Yes,2,2,5,4,6,1,7,4,7
+,,1963,63,Del Rosario,Lalaki,Yes,4,4,5,5,Yes,4,4,4,4,Yes,5,5,5,5,1,1,5,6,7
+,,1976,49,Del Rosario,Babae,No,,,,,No,,,,,Yes,5,4,2,4,1,1,7,1,1
+,,1972,54,Del Rosario,Babae,No,,,,,Yes,4,4,4,4,Yes,4,4,4,4,1,1,7,1,1
+,,1975,51,Del Rosario,Babae,No,,,,,No,,,,,Yes,4,4,4,4,1,1,7,1,1
+,,1971,55,Del Rosario,Babae,No,,,,,Yes,4,4,4,4,Yes,5,5,5,5,1,6,1,7,1
+,,1976,49,Del Rosario,Babae,No,,,,,Yes,3,3,5,5,Yes,3,3,4,5,3,1,6,1,1
+,,1958,68,Del Rosario,Lalaki,No,,,,,No,,,,,No,,,,,3,1,6,1,2
+,,1970,55,Del Rosario,Babae,No,,,,,Yes,4,4,5,5,Yes,4,4,5,5,1,1,7,1,1
+,,1960,66,Del Rosario,Babae,No,,,,,No,,,,,Yes,4,4,4,5,2,2,6,2,2
